@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.sespli4_d424_capstone_project",
+    "sha256_cert_fingerprints":
+    ["BF:55:7A:14:FA:48:E3:83:72:FC:DD:48:08:DF:88:A6:F5:46:D9:91:12:6A:E6:4D:2F:29:29:EF:51:96:52:FD"]
+  }
+}]
